@@ -1,0 +1,43 @@
+
+                      REPORTES DE CLIENTES
+
+
+  GeneM
+
+
+
+  CODIGO    NOOMBRES  APELLIDOS DNI       RUC
+
+  null      null      null      null      null
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  18/10/2013                                   1
+
+
